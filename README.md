@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Orange_csbl
 
 To register this add-on with Orange, but keep the code in the development directory (do not copy it to Python's site-packages directory), run
@@ -12,3 +13,6 @@ or
 
 orange-canvas
 The new widgets are in the toolbox bar under CsblTools section.
+=======
+# Orange_csbl-master
+>>>>>>> 5c0ff02c057fac98903554954a1020bbf6526852
